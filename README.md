@@ -1,6 +1,8 @@
 # VLSI-Place-Route-tool-using-Kernighan-Lin-algorithm
 Developed a C++ based VLSI Place &amp; Route tool by using the Kernighan-Lin algorithm to optimize the data structure and speed up the run time from 50 to 4500 gates in seven hours. 
 
+![example image](/example.png "Example Image")
+
 Prompt: In this assignment you will implement a partitioning algorithm to solve the balanced bi-partitioning (BB)
 problem. You should implement the Simulated Annealing (SA) algorithm, or the Kernighan-Lin (KL)
 algorithm based on your choice.
