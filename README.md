@@ -1,5 +1,5 @@
 # VLSI-Place-Route-tool-using-Kernighan-Lin-algorithm
-Developed a C++ based VLSI Place &amp; Route tool by using the Kernighan-Lin algorithm to optimize the data structure and speed up the run time from 50 to 4500 gates in seven hours. 
+Developed a C++ based VLSI Place &amp; Route tool by using the Kernighan-Lin algorithm to optimize the data structure and speed up the run time from 50 to 4500 gates in seven hours for NXP Semiconductors N.V. NXP Semiconductors N.V. is a Dutch semiconductor designer and manufacturer which employs approximately 30,000 people in more than 30 countries.
 
 ![example image](/example.png "Example Image")
 
