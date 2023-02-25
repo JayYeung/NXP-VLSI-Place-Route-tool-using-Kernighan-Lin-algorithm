@@ -20,23 +20,37 @@ numbered from 1 to c. c is assumed to be even. Each net is specified in a line i
 CellNumber-1 CellNumber-2
 The nets are implicitly numbered from 1 to n in the order in which they are specified.
 Here is an example net-list.
-6
+
+6 
+
 8
+
 1 5
+
 1 4
+
 1 3
+
 5 2
+
 4 5
+
 3 4
+
 3 2
+
 2 3
+
 The output of your program should have the following format:
 First Line: Cutset Size
 Second Line: List of Cells in the first segment (separated by spaces)
 Third Line: List of Cells in the second segment (separated by spaces)
 Following is an example output file:
+
 3
+
 1 5 4 3
+
 2 6 7 8
 
 Benchmark files will be named B1, B2, B3 etc. The corresponding result files should be named R1, R2,
